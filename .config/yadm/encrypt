@@ -1,1 +1,14 @@
 .config/pypoetry/auth.toml
+devs/sakuguru/saku/ngrok.yml
+devs/sakuguru/saku/dev.env
+devs/sakuguru/saku/.env
+devs/sakuguru/saku/google_service_account.json
+devs/sakuguru/saku/backend/google_service_account.json
+.config/gh/hosts.yml
+/home/n2/devs/codustry/gebwai/backend/google_app_creds.json
+/home/n2/devs/codustry/gebwai/liff/.env
+/home/n2/devs/codustry/gebwai/.env
+/home/n2/devs/codustry/gebwai/dev.env
+/home/n2/devs/codustry/gebwai/local.env
+/home/n2/devs/codustry/gebwai/ngrok.yml
+/home/n2/devs/codustry/gebwai/production.env
